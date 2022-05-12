@@ -1,0 +1,9 @@
+- our goal is to add items to cart.
+- For that we need some information like
+name of the product, price and event listener. save in a object.
+
+get that information first!
+
+try console.table to see information clearly.
+
+- Now we need to add product to cart, access that element.
